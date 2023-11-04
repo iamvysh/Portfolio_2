@@ -7,13 +7,14 @@ const Home = () => {
   return (
     <section className="flex justify-between items-center flex-col-reverse lg:flex-row gap-5 py-10 min-h-[87vh]">
       <div className="flex flex-col gap-3">
-        <h1 className="text-6xl">Hi I&apos;m Vivek Parde</h1>
+        <h1 className="text-6xl">Hi I&apos;m VYSHNAV  T</h1>
         <TypeAnimation
           sequence={[
-            "Full Stack Web Developer",
+            "Mern Stack Web Developer",
             1000,
             "React Enthusiastic",
             1000,
+            "The Node Ninja",1000,
             "Fast Learner",
             1000,
           ]}
